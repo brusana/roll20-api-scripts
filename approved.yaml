@@ -295,3 +295,16 @@ itsatrapdnd5e:
 healthcolors:
 - "HealthColors"
 - "Tokens"
+
+truepagecopy:
+- "TruePageCopy"
+- "Character"
+- "hidden"
+
+srrollextender:
+- "SR-RollExtender"
+- "System Toolbox"
+
+namegen:
+- "namegen"
+- "Character"
